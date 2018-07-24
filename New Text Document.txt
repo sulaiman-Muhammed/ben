@@ -1,0 +1,25 @@
+<HTML>
+<HEAD>
+<TITLE>
+KKKK
+</TITLE>
+</HEAD>
+<SCRIPT src="tx.js"></SCRIPT>
+<h1> sulaiman Family </h1>
+<input type="button" value="Click" onClick="sum()">
+<br> 
+first number:
+<input type="text" size="30" id="s1">
+<br> 
+<br> 
+secand number:
+<input type="text" size="30" id="s2" >
+<p id="h"> hello</p>
+<br>  
+<br>
+<br> 
+<br>
+<input type="text" size="30" id="pic">
+<img src="C:\Users\suliaman\Desktop\a1.jpeg" id="m" width=220>
+<input type="button" value="Fter" onClick="ss()">
+<input type="button" value="ck" onClick="cj()">
